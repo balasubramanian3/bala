@@ -1,0 +1,25 @@
+<table>
+  <tr>
+    <th>Country</th>
+    <th>capital</th>
+    <th>national language</th>
+  </tr>
+  <tr>
+    <td>france</td>
+    <td>paris</td>
+    <td>french</td>
+  </tr>
+  <tr>
+    <td>spain</td>
+    <td>madrid</td>
+    <td>spanish</td>
+  </tr>
+    <td>israel</td>
+    <td>jerusalem</td>
+    <td>hebrew</td>
+  </tr>
+  <td>cuba</td>
+    <td>havana</td>
+    <td>spanish</td>
+  </tr>
+</table>
